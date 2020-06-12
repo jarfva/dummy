@@ -1,5 +1,4 @@
-{
-  "posts": [
+[
  {
    "id": 1,
    "jenis": "Kamera",
@@ -128,4 +127,4 @@
    "deskripsi": "61,0 megapiksel",
    "stok": 5
  }
-]}
+]
