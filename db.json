@@ -1,11 +1,146 @@
-{
-  "posts": [
-    {
-      "id": 1,
-      "title": "hello"
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
-}
+[
+ {
+   "id": 1,
+   "barang": "",
+   "jenis": "Kamera",
+   "merk": "Sony",
+   "tipe": "ZV-1",
+   "deskripsi": "Sensor CMOS Exmor RS tipe 1.0 (13,2 mm x 8,8 mm), rasio aspek 3:2",
+   "stok": 6
+ },
+ {
+   "id": 2,
+   "barang": "",
+   "jenis": "Laptop",
+   "merk": "Apple",
+   "tipe": "MacBook Air",
+   "deskripsi": "Intel Core i5 Dual-core 1,1 GHz, Turbo Boost hingga 3,5 GHz, dengan cache L3 sebesar 6 MB",
+   "stok": 4
+ },
+ {
+   "id": 3,
+   "barang": "",
+   "jenis": "Laptop",
+   "merk": "Acer",
+   "tipe": "Aspire 3 (A315-41-R3LC)",
+   "deskripsi": "AMD RYZEN™ 3 2200U processor (up to 2 MB cache, 2.0 GHz with Precision Boost up to 3.4 GHz)",
+   "stok": 8
+ },
+ {
+   "id": 4,
+   "barang": "",
+   "jenis": "Laptop",
+   "merk": "Asus",
+   "tipe": "ZenBook 13 UX334FLC\n",
+   "deskripsi": "(Intel® Core™ i5-10210U/8G/512G PCIe/SCREENPAD/Windows 10 Home)",
+   "stok": 10
+ },
+ {
+   "id": 5,
+   "barang": "",
+   "jenis": "Lensa",
+   "merk": "Sony",
+   "tipe": "FE 20mm F1.8 G",
+   "deskripsi": "0,19 m (AF), 0,18 m (MF) (0,63 ft (AF), 0,59 ft (MF))",
+   "stok": 12
+ },
+ {
+   "id": 6,
+   "barang": "",
+   "jenis": "Kamera",
+   "merk": "Nikon",
+   "tipe": "Z 50",
+   "deskripsi": "Total pixels : 21.51 million",
+   "stok": 4
+ },
+ {
+   "id": 7,
+   "barang": "",
+   "jenis": "Laptop",
+   "merk": "Acer",
+   "tipe": "Aspire 3 (A311-31-C64M)",
+   "deskripsi": "Intel® Celeron® dual-core processor N4000 (4 MB cache, 1.10 GHz, up to 2.6 GHz)",
+   "stok": 5
+ },
+ {
+   "id": 8,
+   "barang": "",
+   "jenis": "Laptop",
+   "merk": "Apple",
+   "tipe": "MacBook Pro 13\"",
+   "deskripsi": "Intel Core i5 generasi ke-10 quad-core 2,0 GHz, Turbo Boost hingga 3,8 GHz, dengan cache L3 bersama sebesar 6 MB",
+   "stok": 4
+ },
+ {
+   "id": 9,
+   "barang": "",
+   "jenis": "Laptop",
+   "merk": "Asus",
+   "tipe": "ASUS ZenBook 15 UX534FTC",
+   "deskripsi": "(Intel® Core™ i7-10510U/GTX1650/16G/1T PCIe/UHD/SCREENPAD/Windows 10 Home)",
+   "stok": 3
+ },
+ {
+   "id": 10,
+   "barang": "",
+   "jenis": "Laptop",
+   "merk": "Apple",
+   "tipe": "MacBook Pro 16\"",
+   "deskripsi": "Intel Core i9 8-core 2,3 GHz, Turbo Boost hingga 4,8 GHz, dengan cache L3 bersama sebesar 16 MB",
+   "stok": 1
+ },
+ {
+   "id": 11,
+   "barang": "",
+   "jenis": "Kamera",
+   "merk": "Nikon",
+   "tipe": "D3500",
+   "deskripsi": "Total pixels : 24.78 million",
+   "stok": 8
+ },
+ {
+   "id": 12,
+   "barang": "",
+   "jenis": "Laptop",
+   "merk": "Acer",
+   "tipe": "Aspire 5 (A514-51KG)",
+   "deskripsi": "Intel® Core™ i3-7020U processor (3 MB Smart Cache, 2.3 GHz, DDR4 or LPDDR3, 15 W)",
+   "stok": 15
+ },
+ {
+   "id": 13,
+   "barang": "",
+   "jenis": "Kamera",
+   "merk": "Nikon",
+   "tipe": "D850",
+   "deskripsi": "Total pixels : 46.89 million",
+   "stok": 1
+ },
+ {
+   "id": 14,
+   "barang": "",
+   "jenis": "Laptop",
+   "merk": "Asus",
+   "tipe": "ROG Strix G",
+   "deskripsi": "(Windows 10 Home/Intel® Core™ i5-9300H/GTX1050_V4G/8G/\n1TB SSHD/Slim FHD Value IPS/RGB)",
+   "stok": 6
+ },
+ {
+   "id": 15,
+   "barang": "",
+   "jenis": "Kamera",
+   "merk": "Sony",
+   "tipe": "α6100",
+   "deskripsi": "24,2 megapiksel",
+   "stok": 2
+ },
+ {
+   "id": 16,
+   "barang": "",
+   "jenis": "Kamera",
+   "merk": "Sony",
+   "tipe": "α7R IV",
+   "deskripsi": "61,0 megapiksel",
+   "stok": 5
+ }
+]
