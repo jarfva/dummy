@@ -2,7 +2,6 @@
   "inventory": [
  {
    "id": 1,
-   "barang": "",
    "jenis": "Kamera",
    "merk": "Sony",
    "tipe": "ZV-1",
@@ -11,7 +10,6 @@
  },
  {
    "id": 2,
-   "barang": "",
    "jenis": "Laptop",
    "merk": "Apple",
    "tipe": "MacBook Air",
@@ -20,7 +18,6 @@
  },
  {
    "id": 3,
-   "barang": "",
    "jenis": "Laptop",
    "merk": "Acer",
    "tipe": "Aspire 3 (A315-41-R3LC)",
@@ -29,7 +26,6 @@
  },
  {
    "id": 4,
-   "barang": "",
    "jenis": "Laptop",
    "merk": "Asus",
    "tipe": "ZenBook 13 UX334FLC\n",
@@ -38,7 +34,6 @@
  },
  {
    "id": 5,
-   "barang": "",
    "jenis": "Lensa",
    "merk": "Sony",
    "tipe": "FE 20mm F1.8 G",
@@ -47,7 +42,6 @@
  },
  {
    "id": 6,
-   "barang": "",
    "jenis": "Kamera",
    "merk": "Nikon",
    "tipe": "Z 50",
@@ -56,7 +50,6 @@
  },
  {
    "id": 7,
-   "barang": "",
    "jenis": "Laptop",
    "merk": "Acer",
    "tipe": "Aspire 3 (A311-31-C64M)",
@@ -65,7 +58,6 @@
  },
  {
    "id": 8,
-   "barang": "",
    "jenis": "Laptop",
    "merk": "Apple",
    "tipe": "MacBook Pro 13\"",
@@ -74,7 +66,6 @@
  },
  {
    "id": 9,
-   "barang": "",
    "jenis": "Laptop",
    "merk": "Asus",
    "tipe": "ASUS ZenBook 15 UX534FTC",
@@ -82,8 +73,7 @@
    "stok": 3
  },
  {
-   "id": 10,
-   "barang": "",
+   "id": 10,,
    "jenis": "Laptop",
    "merk": "Apple",
    "tipe": "MacBook Pro 16\"",
@@ -92,7 +82,6 @@
  },
  {
    "id": 11,
-   "barang": "",
    "jenis": "Kamera",
    "merk": "Nikon",
    "tipe": "D3500",
@@ -101,7 +90,6 @@
  },
  {
    "id": 12,
-   "barang": "",
    "jenis": "Laptop",
    "merk": "Acer",
    "tipe": "Aspire 5 (A514-51KG)",
@@ -110,7 +98,6 @@
  },
  {
    "id": 13,
-   "barang": "",
    "jenis": "Kamera",
    "merk": "Nikon",
    "tipe": "D850",
@@ -119,7 +106,6 @@
  },
  {
    "id": 14,
-   "barang": "",
    "jenis": "Laptop",
    "merk": "Asus",
    "tipe": "ROG Strix G",
@@ -128,7 +114,6 @@
  },
  {
    "id": 15,
-   "barang": "",
    "jenis": "Kamera",
    "merk": "Sony",
    "tipe": "α6100",
@@ -137,7 +122,6 @@
  },
  {
    "id": 16,
-   "barang": "",
    "jenis": "Kamera",
    "merk": "Sony",
    "tipe": "α7R IV",
