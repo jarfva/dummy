@@ -1,5 +1,4 @@
-{
-  "inventory": [
+[
  {
    "id": 1,
    "jenis": "Kamera",
@@ -129,4 +128,4 @@
    "stok": 5
  }
 ]
-}
+
